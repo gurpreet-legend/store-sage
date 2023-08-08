@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Local configuration (if you have sensitive or environment-specific settings)
+config.py
+
+# IDE and editor specific files (if you use specific IDEs or editors)
+.vscode/
+
+# Environment-specific files (if you have environment-specific settings)
+.env
